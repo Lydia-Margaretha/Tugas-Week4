@@ -2,4 +2,4 @@
 
 DIGITAL TALENT SCHOLARSHIP 2022 - FRONT END DEVELOPER - KELAS D 
 
-https://github.com/Lydia-Margaretha/Tugas-Week4.git
+https://Lydia-Margaretha.github.io/Tugas-Week4.github.io
