@@ -1,4 +1,4 @@
-# Tugas-Week4
+# Tugas-Week4.github.io
 
 DIGITAL TALENT SCHOLARSHIP 2022 - FRONT END DEVELOPER - KELAS D 
 
